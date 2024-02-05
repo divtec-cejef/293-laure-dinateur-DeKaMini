@@ -105,4 +105,10 @@ header {
     line-height: 0.8;
     color: #2ec4b6;
     font-family: 'Changa One', sans-serif;
+    font-weight: 400;
+    margin: 1rem 0;
+}
+
+.metier {
+    margin-top: -5px;
 }
