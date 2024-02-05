@@ -99,3 +99,10 @@ header {
     text-align: center;
     padding: 5px 30px;
 }
+
+.personne {
+    font-size: 1.75rem;
+    line-height: 0.8;
+    color: #2ec4b6;
+    font-family: 'Changa One', sans-serif;
+}
