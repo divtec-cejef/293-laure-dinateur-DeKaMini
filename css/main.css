@@ -91,6 +91,12 @@ a:hover {
     text-decoration: underline;
     color: darkmagenta;
 }
+
+img {
+    max-width: 100%; /* Empêche le débordement des images */
+    height: auto; /* Règle problème des tailles saisies en HTML */
+    width: auto;
+}
 /***************************************
            Entête du site
 ****************************************/
