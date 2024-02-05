@@ -112,3 +112,12 @@ header {
 .metier {
     margin-top: -5px;
 }
+
+/***************************************
+           Menu de navigation
+****************************************/
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
