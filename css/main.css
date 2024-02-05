@@ -226,14 +226,6 @@ footer ul li img:hover {
     padding: 0 0 0 30px;
 }
 
-/*
-Sélecteur d'attribut CSS
-http://www.w3schools.com/css/css_attribute_selectors.asp
-    - commence par   ^=
-    - contient       *=
-    - se termine par $=
-*/
-
 .page-contact .contact-info li a[href^="tel"] {
     background-image: url('../img/phone.png');
 }
