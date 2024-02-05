@@ -39,7 +39,7 @@
 }
 
 /************************************
-
+        Règles générales
 ************************************/
 * {
     box-sizing: border-box;
@@ -91,4 +91,9 @@ a:hover {
     text-decoration: underline;
     color: darkmagenta;
 }
-
+/***************************************
+           Entête du site
+****************************************/
+header {
+    background-color: #011627;
+}
