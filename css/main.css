@@ -48,10 +48,10 @@
 body {
     font-family: Arial, sans-serif;
     font-weight: 400;
-    font-size: 100%;
+    font-size: 1.2rem;
     line-height: 1.4;
-    color: #011627;
-    background-color: #fdfffc;
+    color: darkblue;
+    background-color: whitesmoke;
 }
 
 img {
