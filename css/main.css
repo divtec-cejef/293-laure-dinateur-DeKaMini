@@ -172,9 +172,9 @@ main {
     margin: 0 5%;
 }
 
-/***********************
-******** FOOTER ********
-************************/
+/***************************************
+           Pied de page
+****************************************/
 
 footer {
     text-align: center;
@@ -210,6 +210,20 @@ footer ul li img {
 footer ul li img:hover {
     -webkit-filter: grayscale(0);
     filter: grayscale(0);
+}
+/***************************************
+           Page information
+****************************************/
+
+.page-infos .profile-photo {
+    display: block;
+    max-width: 150px;
+    margin: 0 auto 30px;
+    border-radius: 50%;
+}
+
+.page-infos h1 {
+    text-align: center;
 }
 
 /***********************
