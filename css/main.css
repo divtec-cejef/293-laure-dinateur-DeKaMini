@@ -55,7 +55,7 @@ body {
 }
 
 img {
-    max-width: 100%;
+    max-width: 150px;
     height: auto;
     width: auto;
     border-radius: 50%;
