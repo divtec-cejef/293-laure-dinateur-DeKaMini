@@ -58,6 +58,7 @@ img {
     max-width: 100%;
     height: auto;
     width: auto;
+    border-radius: 50px;
 }
 h1,
 h2,
