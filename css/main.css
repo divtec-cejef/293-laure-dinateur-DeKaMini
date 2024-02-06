@@ -55,13 +55,10 @@ body {
 }
 
 img {
-    max-width: 150px;
     height: auto;
     width: auto;
-    border-radius: 50%;
-    text-align: center;
-
 }
+
 h1,
 h2,
 h3,
