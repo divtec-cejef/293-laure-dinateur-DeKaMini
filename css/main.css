@@ -133,6 +133,13 @@ header {
     margin: -5px 0 0;
 }
 
+.nom {
+    color: #2ec4b6;
+    font-size: 1.75rem;
+    margin: 15px 0;
+    line-height: 0.8;
+}
+
 /***************************************
            Menu de navigation
 ****************************************/
