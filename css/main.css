@@ -125,7 +125,7 @@ header {
     margin: 1rem 0;
 }
 
-.metier {
+header.metier {
     color: #e71d36;
     margin: -5px 0 0;
 }
