@@ -232,7 +232,7 @@ footer ul li img:hover {
     flex-direction: row; /* Les éléments s'affiche sur la même ligne */
     flex-wrap: wrap; /* Les éléments peuvent s'afficher sur la ligne suivante si pas assez de place */
     justify-content: space-between; /* L'espace libre dans la ligne est redistribué entre les éléments */
-    vertical-align:top; /* Alignement vertical sur le haut des éléments */
+    align-items: flex-start; /* Alignement vertical sur le haut des éléments */
     list-style-type: none; /* suppression des puces */
     margin: 0;
     padding: 0;
@@ -247,6 +247,7 @@ footer ul li img:hover {
 
 .page-index .realisations li a {
     display:inline-block;
+    vertical-align:top;
     color: #011627;
 }
 
