@@ -259,6 +259,7 @@ footer ul li img:hover {
 .page-index .realisations figcaption {
     padding: 10px;
     font-size: 1rem;
+    overflow: hidden;
 }
 
 /***************************************
