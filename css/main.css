@@ -233,7 +233,9 @@ footer ul li img:hover {
     justify-content: space-between; /* L'espace libre dans la ligne est redistribué entre les éléments */
     align-items: flex-start; /* Alignement vertical sur le haut des éléments */
 
-
+    list-style-type: none; /* suppression des puces */
+    margin: 0;
+    padding: 0;
 }
 
 .page-index .realisations li {
