@@ -220,6 +220,45 @@ footer ul li img:hover {
     -webkit-filter: grayscale(0);
     filter: grayscale(0);
 }
+
+/***************************************
+           Page index
+****************************************/
+
+.page-index .realisations {
+    /* FLEXBOX : https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+    display: flex; /* Indique que l'élément est un container Flexbox */
+    flex-direction: row; /* Les éléments s'affiche sur la même ligne */
+    flex-wrap: wrap; /* Les éléments peuvent s'afficher sur la ligne suivante si pas assez de place */
+    justify-content: space-between; /* L'espace libre dans la ligne est redistribué entre les éléments */
+    align-items: flex-start; /* Alignement vertical sur le haut des éléments */
+
+    list-style-type: none; /* suppression des puces */
+    margin: 0;
+    padding: 0;
+}
+
+.page-index .realisations li {
+    flex-basis: 50%; /* Taille de base pour les éléments du container flex */
+    flex-grow: 2;
+    margin: 0;
+    padding: 1rem 2.5%;
+}
+
+.page-index .realisations li a {
+    color: #011627;
+}
+
+.page-index .realisations figure {
+    margin: 0;
+    background-color: #e7e9eb;
+}
+
+.page-index .realisations figcaption {
+    padding: 10px;
+    font-size: 1rem;
+}
+
 /***************************************
            Page information
 ****************************************/
