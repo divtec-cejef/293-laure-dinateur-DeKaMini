@@ -5,6 +5,7 @@
     .page-index .realisations li {
         flex-basis: calc(100%/3);
         flex-grow: 3; /* Peut prendre la place de 2 à 3 éléments si disponible */
+        text-align: match-parent;
     }
 
     /* Habillage flottant pour l'image de la page infos*/
