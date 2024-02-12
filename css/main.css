@@ -71,7 +71,7 @@ h6 {
 
 .logo {
     font-family: 'Changa One', cursive;
-    font-weight: 400; /* Pas oublier de préciser l'épaisseur */
+    font-weight: 400;
 }
 
 h1 {
@@ -98,8 +98,8 @@ a:hover {
 }
 
 img {
-    max-width: 100%; /* Empêche le débordement des images */
-    height: auto; /* Règle problème des tailles saisies en HTML */
+    max-width: 100%;
+    height: auto;
     width: auto;
 }
 /***************************************
