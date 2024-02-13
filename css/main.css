@@ -247,6 +247,7 @@ footer ul li img:hover {
 
 .page-index .realisations li a {
     display:inline-block;
+    align-items: stretch;
     color: #011627;
 }
 
